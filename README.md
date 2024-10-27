@@ -7,4 +7,6 @@ u can controler
 6. rigt
 7. enter
 
-im the file: "hand_code" are the img to see how is the funccion of any feature
+in the file: "hand_code" are the img to see how is the funccion of any feature
+
+###### the cam doesnot oppen, i only activate the cam
